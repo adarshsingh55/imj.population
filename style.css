@@ -5,6 +5,8 @@
 
 /* font-family: 'Kalam', cursive;
 font-family: 'Nova Square', cursive; */
+*{margin: 0;
+padding: 0;}
 .container{
     background-color: rgb(167, 236, 236);
     border: 2px solid black;
@@ -13,7 +15,7 @@ font-family: 'Nova Square', cursive; */
  font-family:'Kalam', cursive; 
 }
 .img{
-    max-width: 380px;
+    max-width: 350px;
 }
 .btn{
     background-color: aqua;
