@@ -15,7 +15,8 @@ padding: 0;}
  font-family:'Kalam', cursive; 
 }
 .img{
-    max-width: 350px;
+   width: 95vw;
+    max-width: 650px;
 }
 .btn{
     background-color: aqua;
