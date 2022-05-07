@@ -1,0 +1,22 @@
+/* https://api.waifu.pics/type/category */
+/* The type field is the type classification. Valid types are sfw and nsfw.  */
+
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300&family=Nova+Square&display=swap');
+
+/* font-family: 'Kalam', cursive;
+font-family: 'Nova Square', cursive; */
+.container{
+    background-color: rgb(167, 236, 236);
+    border: 2px solid black;
+    padding: 4px;
+ border-radius: 15px;
+ font-family:'Kalam', cursive; 
+}
+.img{
+    max-width: 380px;
+}
+.btn{
+    background-color: aqua;
+    padding: 5px;
+    font-family:'Kalam', cursive; 
+}
