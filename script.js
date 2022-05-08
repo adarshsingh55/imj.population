@@ -47,7 +47,7 @@ console.log(typeof print ,print)
 console.log("every thing is good")
 setTimeout(() => {
     printit.innerHTML = printit.innerHTML + print
-}, 2000);
+}, 800);
 }
         else{console.log('some problem has occered')}
     }
